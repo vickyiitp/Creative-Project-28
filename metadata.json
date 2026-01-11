@@ -1,0 +1,5 @@
+{
+  "name": "Helios Mirror",
+  "description": "A physics-based puzzle game where you align heliostat mirrors to reflect sunlight onto a central energy tower before sunset.",
+  "requestFramePermissions": []
+}
